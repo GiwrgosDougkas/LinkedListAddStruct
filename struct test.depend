@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588947511 source:c:\users\george\desktop\project\struct test\main.c
+	<unistd.h>
+	<stdint.h>
+	<stdio.h>
+
